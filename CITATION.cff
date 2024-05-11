@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 title: metan_gge_suite - R script for streamlined Genotype × Environment interaction analysis based on GGE Biplot model
 version: v1.0.0
-doi: 10.5281/zenodo.
-url: "https://doi.org/10.5281/zenodo."
+doi: 10.5281/zenodo.11179308
+url: "https://doi.org/10.5281/zenodo.11179308"
 message: >-
   Your one-stop solution for comprehensive genotype ×
   environment interaction and stability analysis (GGE Biplot
